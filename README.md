@@ -35,5 +35,4 @@ prints the total number of nodes and edges.
 
 ## Author
 Sai Abhishek D
-## Author
-Sai Abhishek
+
